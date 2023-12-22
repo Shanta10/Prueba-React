@@ -1,0 +1,30 @@
+{
+  "signs": [
+    { "name": "Aries" },
+    { "name": "Tauro" },
+    { "name": "Géminis" },
+    { "name": "Cáncer" },
+    { "name": "Leo" },
+    { "name": "Virgo" },
+    { "name": "Libra" },
+    { "name": "Escorpio" },
+    { "name": "Sagitario" },
+    { "name": "Capricornio" },
+    { "name": "Acuario" },
+    { "name": "Piscis" }
+  ],
+  "predictions": {
+    "Aries": "Tendrás éxito en nuevos proyectos esta semana. Mantén la calma en situaciones desafiantes.",
+    "Tauro": "Es un buen momento para enfocarte en tus metas a largo plazo. Aprovecha las oportunidades laborales.",
+    "Géminis": "Podrías enfrentar cambios inesperados. Sé adaptable y mantén una mente abierta para crecer.",
+    "Cáncer": "La creatividad florecerá en ti esta semana. Dedica tiempo a tus pasiones y relaciones cercanas.",
+    "Leo": "Es momento de tomar decisiones importantes. Confía en tu intuición y liderazgo para avanzar.",
+    "Virgo": "Deja de preocuparte por lo que no puedes controlar. Concéntrate en tu bienestar y en la organización.",
+    "Libra": "El equilibrio en tu vida será crucial esta semana. Busca la armonía en tus relaciones y objetivos.",
+    "Escorpio": "Tus instintos estarán afilados. Aprovecha la energía para resolver desafíos y tomar decisiones.",
+    "Sagitario": "Es un buen momento para la aventura y el crecimiento personal. Abraza nuevas experiencias.",
+    "Capricornio": "Se avecinan oportunidades laborales. Mantén la disciplina y la determinación en tus metas.",
+    "Acuario": "La originalidad y la creatividad serán tus aliadas. Comparte tus ideas sin miedo al juicio.",
+    "Piscis": "Conéctate con tu intuición. Presta atención a tus sueños y emociones para obtener claridad."
+  }
+}
